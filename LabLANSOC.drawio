@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
   <diagram name="Page-1" id="K4JFjYk3da2fQdK7jD60">
-    <mxGraphModel dx="1914" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2638" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,6 +223,24 @@
           <mxGeometry height="200" width="230" x="-404.51" y="1880" as="geometry" />
         </mxCell>
         <mxCell id="fNJXxfo04iU3ZBpWGrRD-11" parent="fNJXxfo04iU3ZBpWGrRD-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Splunk SIEM" vertex="1">
+          <mxGeometry height="200" width="230" x="-670" y="2100" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-13" parent="fNJXxfo04iU3ZBpWGrRD-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Splunk SIEM" vertex="1">
+          <mxGeometry height="200" width="230" x="-404.5" y="2100" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-15" parent="fNJXxfo04iU3ZBpWGrRD-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Splunk SIEM" vertex="1">
+          <mxGeometry height="200" width="230" x="540" y="2100" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-17" parent="fNJXxfo04iU3ZBpWGrRD-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
       </root>
