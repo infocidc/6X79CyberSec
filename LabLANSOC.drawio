@@ -143,31 +143,31 @@
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-21" parent="O_AMi2QwMX9w_7_8B8pL-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-22" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-22" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #3 - Ansible" vertex="1">
           <mxGeometry height="200" width="230" x="-60" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-23" parent="O_AMi2QwMX9w_7_8B8pL-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-24" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-24" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #5 - Project Mgt" vertex="1">
           <mxGeometry height="200" width="230" x="-60" y="1870" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-25" parent="O_AMi2QwMX9w_7_8B8pL-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1 - FileShare" vertex="1">
           <mxGeometry height="200" width="230" x="200" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-27" parent="O_AMi2QwMX9w_7_8B8pL-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #4 - Camera" vertex="1">
           <mxGeometry height="200" width="230" x="200" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-29" parent="O_AMi2QwMX9w_7_8B8pL-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-30" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-30" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #6 - CMDB" vertex="1">
           <mxGeometry height="200" width="230" x="200" y="1870" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-31" parent="O_AMi2QwMX9w_7_8B8pL-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
