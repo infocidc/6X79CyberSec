@@ -122,7 +122,7 @@
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Red Machine - Kali" vertex="1">
           <mxGeometry height="200" width="230" x="540" y="1410" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-14" parent="O_AMi2QwMX9w_7_8B8pL-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-14" parent="O_AMi2QwMX9w_7_8B8pL-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Kali Linux)&lt;/div&gt;&lt;div&gt;Naming : kali.unipole.eu&lt;br&gt;IP: .243&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Kali Security Tool&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-17" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Linux RDS" vertex="1">
@@ -216,7 +216,7 @@
         <mxCell id="fNJXxfo04iU3ZBpWGrRD-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Red Machine - Parrot" vertex="1">
           <mxGeometry height="200" width="230" x="540" y="1640" as="geometry" />
         </mxCell>
-        <mxCell id="fNJXxfo04iU3ZBpWGrRD-9" parent="fNJXxfo04iU3ZBpWGrRD-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Parrot OS)&lt;/div&gt;&lt;div&gt;Naming : parrot.unipole.eu&lt;/div&gt;&lt;div&gt;IP: .242&lt;/div&gt;&lt;div&gt;OS: Parrot OS&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Parrot Security Tool&lt;/div&gt;" vertex="1">
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-9" parent="fNJXxfo04iU3ZBpWGrRD-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Parrot OS)&lt;/div&gt;&lt;div&gt;Naming : parrot.unipole.eu&lt;/div&gt;&lt;div&gt;IP: .242&lt;/div&gt;&lt;div&gt;OS: Parrot OS&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;4vCPU, 8Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Parrot Security Tool&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="fNJXxfo04iU3ZBpWGrRD-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Linux Weak Machine" vertex="1">
