@@ -173,13 +173,13 @@
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-31" parent="O_AMi2QwMX9w_7_8B8pL-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #7 - Automation" vertex="1">
           <mxGeometry height="200" width="230" x="-60" y="2100" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-33" parent="O_AMi2QwMX9w_7_8B8pL-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-34" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-34" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #8 - Cloud" vertex="1">
           <mxGeometry height="200" width="230" x="200" y="2100" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-35" parent="O_AMi2QwMX9w_7_8B8pL-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
