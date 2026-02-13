@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
   <diagram name="Page-1" id="K4JFjYk3da2fQdK7jD60">
-    <mxGraphModel dx="1758" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,16 +41,16 @@
           <mxGeometry height="60" width="60" x="-288.4" y="470" as="geometry" />
         </mxCell>
         <mxCell id="vxOqxyIGPMc0n_5BYfkc-104" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="180" width="210" x="20" y="1000" as="geometry" />
+          <mxGeometry height="90" width="150" x="127.2" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="vxOqxyIGPMc0n_5BYfkc-105" parent="vxOqxyIGPMc0n_5BYfkc-104" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="29.11764705882353" width="23.013698630136982" as="geometry" />
+          <mxGeometry height="14.558823529411764" width="16.43835616438356" as="geometry" />
         </mxCell>
         <mxCell id="vxOqxyIGPMc0n_5BYfkc-106" parent="vxOqxyIGPMc0n_5BYfkc-104" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" value="" vertex="1">
-          <mxGeometry height="8.679452054794519" width="9.434564383561643" x="5.753424657534246" y="9.26470588235294" as="geometry" />
+          <mxGeometry height="3.0998043052837567" width="3.369487279843444" x="4.10958904109589" y="4.63235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="vxOqxyIGPMc0n_5BYfkc-95" parent="vxOqxyIGPMc0n_5BYfkc-104" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="235.58823529411765" width="261.78082191780817" x="-51.78082191780822" y="-55.58823529411765" as="geometry" />
+        <mxCell id="vxOqxyIGPMc0n_5BYfkc-95" parent="vxOqxyIGPMc0n_5BYfkc-104" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LAN FLATPAK" vertex="1">
+          <mxGeometry height="97.795" width="186.98571428571427" x="-36.98571428571429" y="-27.795" as="geometry" />
         </mxCell>
         <mxCell id="vxOqxyIGPMc0n_5BYfkc-341" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;6X79 - RIAA Architecture vCloud&lt;/h1&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-740" y="50" as="geometry" />
@@ -96,93 +96,127 @@
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Domain Controler" vertex="1">
-          <mxGeometry height="200" width="230" x="-660" y="1240" as="geometry" />
+          <mxGeometry height="200" width="230" x="-670" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-6" parent="O_AMi2QwMX9w_7_8B8pL-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(Active Directory)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Naming : dc.nesta.land&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OS: Windows Server 2022&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 80 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;AD, DNS, GPO, IAM&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-15" y="56" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="-50" y="1240" as="geometry" />
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1 - DB" vertex="1">
+          <mxGeometry height="200" width="230" x="-60" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-8" parent="O_AMi2QwMX9w_7_8B8pL-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="PKI" vertex="1">
-          <mxGeometry height="200" width="230" x="-660" y="1480" as="geometry" />
+          <mxGeometry height="200" width="230" x="-670" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-10" parent="O_AMi2QwMX9w_7_8B8pL-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-11" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="CyberBlueSOC&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstartSize%3D23%3B%22%20value%3D%22Domain%20Controler%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%22200%22%20width%3D%22230%22%20x%3D%22-40%22%20y%3D%221150%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20parent%3D%222%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3B%22%20value%3D%22%26lt%3Bbr%26gt%3B%26lt%3Bdiv%26gt%3B(Active%20Directory)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BNaming%20%3A%20dc.on.unipole.eu%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BOS%3A%20OPNSense%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BSpec%3A%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B2vCPU%2C%204Go%20RAM%2C%20150%20Go%20HDD%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BPurpose%3A%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BCore%20Gateway%2C%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BDHCP%2C%20DNS%20Resomver%2C%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BNet%20Segmentation%2C%20FW%20Rules%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2280%22%20width%3D%22260%22%20x%3D%22-17.02%22%20y%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
-          <mxGeometry height="200" width="230" x="550" y="1460" as="geometry" />
+          <mxGeometry height="200" width="230" x="540" y="1870" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-12" parent="O_AMi2QwMX9w_7_8B8pL-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Red Machine" vertex="1">
-          <mxGeometry height="200" width="230" x="550" y="1240" as="geometry" />
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Red Machine - Kali" vertex="1">
+          <mxGeometry height="200" width="230" x="540" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-14" parent="O_AMi2QwMX9w_7_8B8pL-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-17" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Linux RDS" vertex="1">
-          <mxGeometry height="200" width="230" x="-396.21000000000004" y="1480" as="geometry" />
+          <mxGeometry height="200" width="230" x="-406.21000000000004" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-18" parent="O_AMi2QwMX9w_7_8B8pL-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Windows RDS" vertex="1">
-          <mxGeometry height="200" width="233.41" x="-396.21000000000004" y="1240" as="geometry" />
+          <mxGeometry height="200" width="233.41" x="-406.21000000000004" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-16" parent="O_AMi2QwMX9w_7_8B8pL-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Remote Desktop Service)&lt;/div&gt;&lt;div&gt;Naming : ts.nesta.land&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OS: Windows Server 2022&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;4vCPU, 32Go RAM, 150 Go SSD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Remote Desktop Clients&lt;/div&gt;" vertex="1">
           <mxGeometry height="48" width="177.27272727272725" x="28.06545454545455" y="72" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Splunk SIEM" vertex="1">
-          <mxGeometry height="200" width="230" x="-660" y="1710" as="geometry" />
+          <mxGeometry height="200" width="230" x="-670" y="1880" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-21" parent="O_AMi2QwMX9w_7_8B8pL-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-22" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="-50" y="1470" as="geometry" />
+          <mxGeometry height="200" width="230" x="-60" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-23" parent="O_AMi2QwMX9w_7_8B8pL-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-24" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="-50" y="1700" as="geometry" />
+          <mxGeometry height="200" width="230" x="-60" y="1870" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-25" parent="O_AMi2QwMX9w_7_8B8pL-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="210" y="1240" as="geometry" />
+          <mxGeometry height="200" width="230" x="200" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-27" parent="O_AMi2QwMX9w_7_8B8pL-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="210" y="1470" as="geometry" />
+          <mxGeometry height="200" width="230" x="200" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-29" parent="O_AMi2QwMX9w_7_8B8pL-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-30" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="210" y="1700" as="geometry" />
+          <mxGeometry height="200" width="230" x="200" y="1870" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-31" parent="O_AMi2QwMX9w_7_8B8pL-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="-50" y="1930" as="geometry" />
+          <mxGeometry height="200" width="230" x="-60" y="2100" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-33" parent="O_AMi2QwMX9w_7_8B8pL-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-34" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
-          <mxGeometry height="200" width="230" x="210" y="1930" as="geometry" />
+          <mxGeometry height="200" width="230" x="200" y="2100" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-35" parent="O_AMi2QwMX9w_7_8B8pL-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-3" edge="1" parent="1" source="vxOqxyIGPMc0n_5BYfkc-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="O_AMi2QwMX9w_7_8B8pL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="1290" />
+              <mxPoint x="-555" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-4" edge="1" parent="1" source="O_AMi2QwMX9w_7_8B8pL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=block;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="1290" />
+              <mxPoint x="-300" y="1290" />
+            </Array>
+            <mxPoint x="295" y="1180" as="sourcePoint" />
+            <mxPoint x="-300" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-7" edge="1" parent="1" source="O_AMi2QwMX9w_7_8B8pL-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=wire;dashed=1;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;exitX=0.474;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="1290" />
+              <mxPoint x="30" y="1290" />
+            </Array>
+            <mxPoint x="650" y="1400" as="sourcePoint" />
+            <mxPoint x="30" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Red Machine - Kali" vertex="1">
+          <mxGeometry height="200" width="230" x="540" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-9" parent="fNJXxfo04iU3ZBpWGrRD-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
       </root>
