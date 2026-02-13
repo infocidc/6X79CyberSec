@@ -219,6 +219,12 @@
         <mxCell id="fNJXxfo04iU3ZBpWGrRD-9" parent="fNJXxfo04iU3ZBpWGrRD-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Linux Weak Machine" vertex="1">
+          <mxGeometry height="200" width="230" x="-404.51" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="fNJXxfo04iU3ZBpWGrRD-11" parent="fNJXxfo04iU3ZBpWGrRD-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
