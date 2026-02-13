@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.6">
   <diagram name="Page-1" id="K4JFjYk3da2fQdK7jD60">
-    <mxGraphModel dx="2745" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,8 +98,8 @@
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Domain Controler" vertex="1">
           <mxGeometry height="200" width="230" x="-660" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-6" parent="O_AMi2QwMX9w_7_8B8pL-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="260" x="-17.02" y="70" as="geometry" />
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-6" parent="O_AMi2QwMX9w_7_8B8pL-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(Active Directory)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Naming : dc.nesta.land&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OS: Windows Server 2022&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;4vCPU, 8Go RAM, 80 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;AD, DNS, GPO, IAM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="260" x="-15" y="56" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Service #1" vertex="1">
           <mxGeometry height="200" width="230" x="-50" y="1240" as="geometry" />
@@ -134,7 +134,7 @@
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Windows RDS" vertex="1">
           <mxGeometry height="200" width="233.41" x="-396.21000000000004" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="O_AMi2QwMX9w_7_8B8pL-16" parent="O_AMi2QwMX9w_7_8B8pL-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;&lt;div&gt;Naming : dc.on.unipole.eu&lt;/div&gt;&lt;div&gt;OS: OPNSense&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;2vCPU, 4Go RAM, 150 Go HDD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Core Gateway,&amp;nbsp;&lt;/div&gt;&lt;div&gt;DHCP, DNS Resomver,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Net Segmentation, FW Rules&lt;/div&gt;" vertex="1">
+        <mxCell id="O_AMi2QwMX9w_7_8B8pL-16" parent="O_AMi2QwMX9w_7_8B8pL-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;(Remote Desktop Service)&lt;/div&gt;&lt;div&gt;Naming : ts.nesta.land&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OS: Windows Server 2022&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Spec:&lt;/div&gt;&lt;div&gt;4vCPU, 32Go RAM, 150 Go SSD&lt;/div&gt;&lt;div&gt;Purpose:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Remote Desktop Clients&lt;/div&gt;" vertex="1">
           <mxGeometry height="48" width="177.27272727272725" x="28.06545454545455" y="72" as="geometry" />
         </mxCell>
         <mxCell id="O_AMi2QwMX9w_7_8B8pL-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Splunk SIEM" vertex="1">
